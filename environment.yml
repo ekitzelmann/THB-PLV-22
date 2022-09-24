@@ -2,6 +2,7 @@ name: BayesNet
 channels:
   - anaconda
   - defaults
+  - conda-forge/label/broken
 dependencies:
   - _ipyw_jlab_nb_ext_conf=0.1.0=py39haa95532_0
   - aiohttp=3.8.1=py39h2bbff1b_1
